@@ -1,3 +1,5 @@
+const config = require("./src/config");
+
 module.exports = {
   siteMetadata: {
     siteUrl: "https://www.yourdomain.tld",
